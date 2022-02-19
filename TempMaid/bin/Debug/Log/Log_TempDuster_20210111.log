@@ -1,0 +1,5 @@
+01/11/2021 6:08:48 PM	 MESSAGE: The process cannot access the file '7c405349-b909-45c9-8d28-9067722dfe04.tmp' because it is being used by another process.Last Performed Operation: Delete of File #:2-7c405349-b909-45c9-8d28-9067722dfe04.tmp Size :1207210
+01/11/2021 6:08:48 PM	 MESSAGE: The process cannot access the file '8c236412-5c21-48e5-a1f2-2c12dee4ab35.tmp' because it is being used by another process.Last Performed Operation: Delete of File #:3-8c236412-5c21-48e5-a1f2-2c12dee4ab35.tmp Size :3796345
+01/11/2021 6:08:48 PM	 MESSAGE: The process cannot access the file 'adb.log' because it is being used by another process.Last Performed Operation: Delete of File #:4-adb.log Size :1928
+01/11/2021 6:08:48 PM	 MESSAGE: Access to the path is denied.Last Performed Operation: Delete of File #:5-foxBE3C.tmp Size :2172368
+01/11/2021 6:08:48 PM	 MESSAGE: The process cannot access the file 'qtsingleapp-Viber-0-6-lockfile' because it is being used by another process.Last Performed Operation: Delete of File #:7-qtsingleapp-Viber-0-6-lockfile Size :0

@@ -1,0 +1,28 @@
+﻿<Window x:Class="TempMaid.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TempMaid"
+        mc:Ignorable="d"
+        Title="Temp Duster" Height="300" Width="350">
+    <Grid>
+        <StackPanel>
+            <StackPanel Orientation="Vertical">
+                <TextBlock Text="FOLDER PATH:" Margin="20,10"/>
+                <TextBlock x:Name="tbTempPath" Text="" Margin="20,10,20,10" HorizontalAlignment="Stretch" VerticalAlignment="Top"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <TextBlock Text="TEMP FILES COUNT:" Margin="20,10"/>
+                <TextBlock x:Name="tbTempFilesCount" Text="" Margin="20,10"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <TextBlock Text="TEMP FILES SIZE:" Margin="20,10"/>
+                <TextBlock x:Name="tbTempFilesSize" Text="" Margin="20,10"/>
+            </StackPanel>
+            <Button x:Name="btnRefresh" Content="REFRESH" Margin="20,10,20,10" HorizontalAlignment="Stretch" VerticalAlignment="Top" Click="btnRefresh_Click"/>
+            <Button x:Name="btnDeleteAll" Content="TEMP CLEAN UP" Margin="20,10,20,10" HorizontalAlignment="Stretch" VerticalAlignment="Top" Click="btnDeleteAll_Click"/>
+            <TextBlock x:Name="tbStatus" Text="" Margin="20,10" VerticalAlignment="Top" HorizontalAlignment="Stretch"/>
+        </StackPanel>
+    </Grid>
+</Window>

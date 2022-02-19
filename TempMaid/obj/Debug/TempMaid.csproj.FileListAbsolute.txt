@@ -1,0 +1,15 @@
+D:\MY FILES\MY PROJECTS\GitHub\TempMaid\bin\Debug\TempMaid.exe.config
+D:\MY FILES\MY PROJECTS\GitHub\TempMaid\bin\Debug\TempMaid.exe
+D:\MY FILES\MY PROJECTS\GitHub\TempMaid\bin\Debug\TempMaid.pdb
+D:\MY FILES\MY PROJECTS\GitHub\TempMaid\obj\Debug\TempMaid.csprojAssemblyReference.cache
+D:\MY FILES\MY PROJECTS\GitHub\TempMaid\obj\Debug\MainWindow.g.cs
+D:\MY FILES\MY PROJECTS\GitHub\TempMaid\obj\Debug\App.g.cs
+D:\MY FILES\MY PROJECTS\GitHub\TempMaid\obj\Debug\TempMaid_MarkupCompile.cache
+D:\MY FILES\MY PROJECTS\GitHub\TempMaid\obj\Debug\TempMaid_MarkupCompile.lref
+D:\MY FILES\MY PROJECTS\GitHub\TempMaid\obj\Debug\MainWindow.baml
+D:\MY FILES\MY PROJECTS\GitHub\TempMaid\obj\Debug\TempMaid.g.resources
+D:\MY FILES\MY PROJECTS\GitHub\TempMaid\obj\Debug\TempMaid.Properties.Resources.resources
+D:\MY FILES\MY PROJECTS\GitHub\TempMaid\obj\Debug\TempMaid.csproj.GenerateResource.cache
+D:\MY FILES\MY PROJECTS\GitHub\TempMaid\obj\Debug\TempMaid.csproj.CoreCompileInputs.cache
+D:\MY FILES\MY PROJECTS\GitHub\TempMaid\obj\Debug\TempMaid.exe
+D:\MY FILES\MY PROJECTS\GitHub\TempMaid\obj\Debug\TempMaid.pdb

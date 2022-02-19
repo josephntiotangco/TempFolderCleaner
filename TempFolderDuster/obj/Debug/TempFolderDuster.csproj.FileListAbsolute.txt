@@ -1,0 +1,14 @@
+D:\MY FILES\MY PROJECTS\GitHub\TempFolderDuster\bin\Debug\TempFolderDuster.exe.config
+D:\MY FILES\MY PROJECTS\GitHub\TempFolderDuster\bin\Debug\TempFolderDuster.exe
+D:\MY FILES\MY PROJECTS\GitHub\TempFolderDuster\bin\Debug\TempFolderDuster.pdb
+D:\MY FILES\MY PROJECTS\GitHub\TempFolderDuster\obj\Debug\TempFolderDuster.csprojAssemblyReference.cache
+D:\MY FILES\MY PROJECTS\GitHub\TempFolderDuster\obj\Debug\TempFolderDuster.csproj.CoreCompileInputs.cache
+D:\MY FILES\MY PROJECTS\GitHub\TempFolderDuster\obj\Debug\TempFolderDuster.exe
+D:\MY FILES\MY PROJECTS\GitHub\TempFolderDuster\obj\Debug\TempFolderDuster.pdb
+D:\jnt\Projects\TempFolderDuster\bin\Debug\TempFolderDuster.exe.config
+D:\jnt\Projects\TempFolderDuster\bin\Debug\TempFolderDuster.exe
+D:\jnt\Projects\TempFolderDuster\bin\Debug\TempFolderDuster.pdb
+D:\jnt\Projects\TempFolderDuster\obj\Debug\TempFolderDuster.csproj.AssemblyReference.cache
+D:\jnt\Projects\TempFolderDuster\obj\Debug\TempFolderDuster.csproj.CoreCompileInputs.cache
+D:\jnt\Projects\TempFolderDuster\obj\Debug\TempFolderDuster.exe
+D:\jnt\Projects\TempFolderDuster\obj\Debug\TempFolderDuster.pdb
